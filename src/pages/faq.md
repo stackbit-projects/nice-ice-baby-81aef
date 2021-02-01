@@ -13,14 +13,19 @@ sections:
     section_id: faq_section
     questions:
       - question: Why would I buy ice when I can make my own?
-        answer: >-
-          Now that’s a frequent one all right, ain’t it? Your answer to this
-          should *manage customer expectations*. Just like [a good checkout
-          flow](http://bit.ly/2YCN3iG) should. Tell them the truth:
+        answer: >
+          Great question. One that only you can answer.
 
-            - US shipping will take between 3 to 5 business days.
-            - International shipping will take between 5 and 10 business days.
-            - Mars shipping will be automatically redirected to Elon Musk’s Twitter account.
+
+          Why would you clean your own home? Or brew your own beer? Or empty all
+          that garbage out of your garage.
+
+
+          Our ideal world has everyone making all the clear ice they desire.
+          Until we reach that nirvana, we're making some extra clear ice for our
+          memberships who've decided to spend their free time on other priority
+          tasks, perhaps hammering out the details on their perfect cocktail
+          recipe?
       - question: How do refunds and returns work?
         answer: >-
           It happens. Even the most beautiful of plants will disappoint
