@@ -44,15 +44,5 @@ sections:
         text: >-
           Friends don't let friends trash a quality drink with cloudy, tiny
           cubes that mess with the flavour of your drink.
-  - type: promotion_section
-    section_id: promotion_section
-    title: A new home interior for summer
-    subtitle: from $149.99
-    image: images/promo.jpg
-    cta:
-      title: Discover
-      url: /store
-      style: secondary
-      arrow: true
 template: home
 ---
