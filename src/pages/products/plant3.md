@@ -1,6 +1,6 @@
 ---
 id: '3'
-price: '150.00'
+price: '30'
 title: 6 Months
 description: 6 month membership
 default_thumbnail_image: images/smiling-whale.jfif
