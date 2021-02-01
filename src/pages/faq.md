@@ -31,11 +31,9 @@ sections:
           You can return any unopened, perfectly frozen bags of Nice Ice Baby
           anytime. We do not accept returns for unopened bags of water.
       - question: I don't drink alcohol so I'm in the wrong place right?
-        answer: >-
-          [GDPR](https://media3.giphy.com/media/1FMaabePDEfgk/giphy.gif?cid=790b76115d1fc3ed7656643632f4131f&rid=giphy.gif),
-          am I right? Make sure you’re as transparent as possible with your data
-          handling process. Or, if you’re using Snipcart, just refer to [our ToS
-          and DPA](http://bit.ly/2YJwlyt).
+        answer: >
+          No, no, no my friend. Our ice works equally well with or without the
+          devil's elixir.
       - question: Rapid-fire questions
         answer: >-
           Q: Why is this Planty theme so beautiful? <br /> A: We hired our first
