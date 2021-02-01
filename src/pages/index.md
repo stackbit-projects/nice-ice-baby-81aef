@@ -36,9 +36,9 @@ sections:
           name: John Dope
           location: 'Colorado, USA'
         text: >-
-          I didn't know the Snipcart guys were into herbs as well! How beautiful
-          is that Planty theme. I'm going to launch a killer JAMstack e-commerce
-          store using this for sure.
+          You think you've had ice, you think ice is ice right? You don't know
+          ice until you've had Nice Ice Baby! I've bought starter packs for a
+          few friends and everyone of them are now members.
       - author:
           name: Major Payne
           location: 'VA, USA'
