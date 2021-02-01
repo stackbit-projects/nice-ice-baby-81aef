@@ -1,6 +1,6 @@
 ---
 id: '1'
-price: '49.40'
+price: '24.00'
 title: 3 Months
 description: 3 month membership
 default_thumbnail_image: images/ice3.jfif
