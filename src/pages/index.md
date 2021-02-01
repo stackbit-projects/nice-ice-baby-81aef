@@ -43,8 +43,8 @@ sections:
           name: Major Payne
           location: 'VA, USA'
         text: >-
-          Well I'll be d*mned. These plants really ARE greener than any of my
-          recruits.
+          Friends don't let friends trash a quality drink with cloudy, tiny
+          cubes that mess with the flavour of your drink.
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
