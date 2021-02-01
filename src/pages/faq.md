@@ -14,16 +14,16 @@ sections:
     questions:
       - question: Why would I buy ice when I can make my own?
         answer: >
-          Great question. One that only you can answer.
+          Great question, one that only you can answer.
 
 
           Why would you clean your own home? Or brew your own beer? Or empty all
           that garbage out of your garage.
 
 
-          Our ideal world has everyone making all the clear ice they desire.
-          Until we reach that nirvana, we're making some extra clear ice for our
-          memberships who've decided to spend their free time on other priority
+          Our ideal world is one where everyone is making all the clear ice they
+          desire. Until we reach that nirvana, we're making clear ice for our
+          members who've decided to spend their free time on other priority
           tasks, perhaps hammering out the details on their perfect cocktail
           recipe?
       - question: How do refunds and returns work?
