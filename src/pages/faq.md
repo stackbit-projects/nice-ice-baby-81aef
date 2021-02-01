@@ -30,7 +30,7 @@ sections:
         answer: >
           You can return any unopened, perfectly frozen bags of Nice Ice Baby
           anytime. We do not accept returns for unopened bags of water.
-      - question: How do you handle sensitive customer information?
+      - question: I don't drink alcohol so I'm in the wrong place right?
         answer: >-
           [GDPR](https://media3.giphy.com/media/1FMaabePDEfgk/giphy.gif?cid=790b76115d1fc3ed7656643632f4131f&rid=giphy.gif),
           am I right? Make sure you’re as transparent as possible with your data
