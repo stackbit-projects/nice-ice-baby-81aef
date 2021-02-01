@@ -2,7 +2,7 @@
 id: '3'
 price: '150.00'
 title: 6 Months
-description: 'Nulla non pretium metus, vitae finibus lectus.'
+description: 6 month membership
 default_thumbnail_image: images/smiling-whale.jfif
 default_original_image: images/plant3-lg.jpg
 featured: true
