@@ -2,10 +2,7 @@
 id: '1'
 price: '49.40'
 title: 3 Months
-description: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
-  lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
-  tincidunt.
+description: 3 month membership
 default_thumbnail_image: images/ice3.jfif
 default_original_image: images/plant1-lg.jpg
 featured: true
